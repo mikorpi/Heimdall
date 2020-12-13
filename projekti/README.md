@@ -1,1 +1,1 @@
-# facerec_v1.py on nopea yhden kuvan ihme
+# facerec_v1.py on nopea, käyttää yhtä kuvaa. Hyödyntää valmista naamantunnistus API:a.
