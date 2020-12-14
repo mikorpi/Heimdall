@@ -1,9 +1,9 @@
 # Varsinainen projektikansio alkaa tästä.
 ## Sisältö:
-* `Facerec`:
-  * `eka.py` == Ensinmäinen versio
-  * `finalverion.py` == Viimeinen versio
-  * `trainer.py` == Opettaja
+* `/Facerec`:
+  * `eka.py` -- Ensinmäinen versio
+  * `finalverion.py` -- Viimeinen versio
+  * `trainer.py` -- Opettaja
 * `/dataset`:
   * `otakuvia.py` | Ottaa kuvia n-määrän n-tiheydellä.
   * `/kuvat/final`-hakemisto sisältää viimeisimmän version kuvat jotka opetetaan.
