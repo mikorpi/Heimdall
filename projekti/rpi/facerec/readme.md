@@ -1,13 +1,13 @@
 # Varsinainen projektikansio alkaa tästä.
 ## Sisältö:
-* `/Facerec`:
-  * `eka.py` -- Ensinmäinen versio
+* `/Facerec`
+  * `firstversion.py` -- Ensinmäinen versio
   * `finalverion.py` -- Viimeinen versio
   * `trainer.py` -- Opettaja
-* `/dataset`:
+* `/dataset`
   * `otakuvia.py` | Ottaa kuvia n-määrän n-tiheydellä.
   * `/kuvat/final`-hakemisto sisältää viimeisimmän version kuvat jotka opetetaan.
-* `/Cascades`:
+* `/Cascades`
   * Sisältää haarcascaden frontalface.xml:än
-* `/Training`:
+* `/Training`
   * Sisältää opetetun materiaalin mitä hyödynnetään `finalversion.py`:ssä.
