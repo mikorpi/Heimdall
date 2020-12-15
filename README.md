@@ -13,5 +13,4 @@
 * PIL
 
 
-
 ![hello_jason_statham](https://github.com/mikorpi/Heimdall/blob/main/images/hello_jason_unrecognized.png)
