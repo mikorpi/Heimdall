@@ -1,6 +1,6 @@
 # Heimdall
 ## Kasvojentunnistusohjelma OpenCV2:sella.
-
+## Varsinainen projektihakemisto alkaa `projekti/rpi/facerec/`:ista.
 ## Kieli : Python3
 
 ## Classifier
