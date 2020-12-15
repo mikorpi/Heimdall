@@ -1,7 +1,5 @@
 # Heimdall
-## Facerecognition project with Raspberry Pi 4 + V2 Camera module.
-## Built with opencv2 (mostly)
+## Kasvojentunnistusohjelma OpenCV2:sella.
 
-### Classifiers
-#### Haar-Cascade Classifier(frontal_face.xml) from OpenCV's official repository
-#### Haar-Cascade Classifier(eyes.xml) from OpenCV's official repository
+## Classifiers
+### [Haar-Cascade frontalface](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
