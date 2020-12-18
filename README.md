@@ -1,4 +1,5 @@
-# Heimdall
+# Heimdall - Facial recognition app for school project.
+## Code and everything else is commented in finnish.
 ## Kasvojentunnistusohjelma OpenCV2:sella.
 ## Varsinainen projektihakemisto alkaa `projekti/rpi/facerec/`:ista.
 ## Kieli : Python3
